@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Este es un repository de ejemplo del prepcourse henry
+#este proyecto es una muestra para mover desde el depositorio local hacia el repositorio de github cmadriaga
